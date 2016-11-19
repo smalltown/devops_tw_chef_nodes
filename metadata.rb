@@ -1,0 +1,7 @@
+name             'chef_nodes'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures chef_nodes'
+long_description 'Installs/Configures chef_nodes'
+version          '0.1.0'
