@@ -6,3 +6,8 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+# prepare chef client
+
+
+# prepare chef push job client

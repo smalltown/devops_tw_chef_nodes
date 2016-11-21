@@ -1,0 +1,9 @@
+log_level :error
+chef_server_url 'https://192.168.110.4/organizations/devops'
+validation_key '/etc/chef/devops-validator.pem'
+validation_client_name 'devops-validator'
+verify_api_cert false
+ssl_verify_mode :verify_none
+node_name 'Chef-Nodes-Prod'
+environment 'LEMP_Prod'
+interval 1800
